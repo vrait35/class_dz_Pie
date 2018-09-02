@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\class_dz\class_dz\bin\Debug\class_dz.exe.config
+C:\Users\anuar\source\repos\class_dz\class_dz\bin\Debug\class_dz.exe
+C:\Users\anuar\source\repos\class_dz\class_dz\bin\Debug\class_dz.pdb
+C:\Users\anuar\source\repos\class_dz\class_dz\obj\Debug\class_dz.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\class_dz\class_dz\obj\Debug\class_dz.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\class_dz\class_dz\obj\Debug\class_dz.exe
+C:\Users\anuar\source\repos\class_dz\class_dz\obj\Debug\class_dz.pdb
